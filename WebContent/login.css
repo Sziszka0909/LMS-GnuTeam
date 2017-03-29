@@ -1,0 +1,39 @@
+body {
+	background-image: url(background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.main {
+	width:58%;
+	background-color:#FFF1F8;
+	border:solid 1px;
+	margin:auto;
+	position: relative;
+}
+
+h2.header {
+	text-align:center;
+	color:#000;
+}
+
+.usernamebox {
+	width: 200px;
+	margin-left: 30px;
+	margin-bottom: 20px;
+}
+
+.passwordbox {
+	width: 200px;
+	margin-left: 30px;
+	margin-bottom: 20px;
+}
+
+.loginbutton {
+	margin-left: 30px;
+	margin-bottom: 20px;
+}
+
+a.signuplink {
+	margin-left:30px;
+}
